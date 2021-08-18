@@ -1,0 +1,14 @@
+//Array method list
+
+1. array.slice
+2.array.splice
+3. array.reverse
+4. array.concat
+5. array.join
+6. array.entries
+
+
+
+
+//some extra 
+1. for of loop
