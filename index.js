@@ -58,5 +58,4 @@ console.log(greetHer(30));
 /*Some important use cases of bind **
 //1. using object method with eventlistener
 //2. creating a brand new function with partial application
-
 */
