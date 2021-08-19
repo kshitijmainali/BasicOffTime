@@ -60,4 +60,3 @@ console.log(greetHer(30));
 //2. creating a brand new function with partial application
 
 */
-*/
