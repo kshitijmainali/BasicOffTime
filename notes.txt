@@ -12,3 +12,5 @@
 
 //some extra 
 1. for of loop
+2. spread operator unpacks the array while rest 
+params packs the array.
