@@ -1,0 +1,2 @@
+1) List and keys
+ a. Keys have to be unique only between siblings but not neccessarily globally.
